@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Hopp Reykjavik Wiki',
-  domain: 'wiki.hopp.is',
+  domain: 'reykjavik.hopp.is',
   author: 'Hopp Reykjavík',
 
   // open graph metadata (optional)
