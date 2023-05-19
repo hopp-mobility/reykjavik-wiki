@@ -14,6 +14,8 @@ export default siteConfig({
   domain: 'reykjavik.hopp.is',
   author: 'Hopp Reykjavík',
 
+  isSearchEnabled: false,
+
   // open graph metadata (optional)
   // description: '',
 
